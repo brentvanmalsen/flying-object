@@ -1,0 +1,6 @@
+#dino-image {
+    max-width: 100%; /* De afbeelding mag niet breder zijn dan het scherm */
+    max-height: 70vh; /* De afbeelding mag niet hoger zijn dan 70% van de viewporthoogte */
+    display: block; /* Maakt de afbeelding een blokelement om het horizontaal te centreren */
+    margin: 0 auto; /* Centreert de afbeelding horizontaal */
+}
