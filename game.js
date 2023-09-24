@@ -4,11 +4,11 @@ const spidermanImage = document.getElementById("spiderman");
 let xPos = 0;
 let yPos = 0;
 
-// Stel de bewegingsafstand in voor elke toetsaanslag van de pijltjestoetsen
-const moveDistance = 20; // Verhoog de bewegingsafstand voor snellere beweging
+// Stel de bewegingsafstand in voor elke toetsaanslag van de pijltjestoetsen (verhoogd voor snellere beweging)
+const moveDistance = 10; // Verhoog de bewegingsafstand voor snellere beweging
 
-// Stel de intervaltijd in tussen bewegingen (in milliseconden)
-const moveInterval = 50; // Verlaag de intervaltijd voor een snellere respons
+// Stel de intervaltijd in tussen bewegingen (verlaagd voor snellere respons)
+const moveInterval = 20; // Verlaag de intervaltijd voor een snellere respons
 
 let isMoving = false; // Houdt bij of de afbeelding al in beweging is
 
