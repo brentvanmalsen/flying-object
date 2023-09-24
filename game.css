@@ -1,6 +1,24 @@
-#dino-image {
-    max-width: 100%; /* De afbeelding mag niet breder zijn dan het scherm */
-    max-height: 70vh; /* De afbeelding mag niet hoger zijn dan 70% van de viewporthoogte */
-    display: block; /* Maakt de afbeelding een blokelement om het horizontaal te centreren */
-    margin: 0 auto; /* Centreert de afbeelding horizontaal */
+/* game.css */
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.spiderman-image {
+    max-width: 100%;
+    max-height: 70vh;
+    display: block;
+    margin: 0 auto;
+}
+
+.background-image {
+    background-image: url('images/background.png'); /* Vervang 'path/to/background.png' door het pad naar je achtergrondafbeelding */
+    background-size: 100% 100%; /* Schaal de achtergrondafbeelding om de hele viewport te bedekken en mee te schalen */
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
 }
