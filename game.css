@@ -8,11 +8,13 @@ body {
 .container {
     position: relative;
     width: 100%;
-    height: 100vh; /* Hier gebruiken we de viewporthoogte voor de containerhoogte */
+    height: 100vh;
+    /* Hier gebruiken we de viewporthoogte voor de containerhoogte */
 }
 
 .spiderman-image {
-    width: 5%; /* Hier hebben we de breedte van Spiderman kleiner gemaakt */
+    width: 5%;
+    /* Hier hebben we de breedte van Spiderman kleiner gemaakt */
     height: auto;
     display: block;
     position: absolute;
