@@ -5,12 +5,12 @@ Dit project is een uitdaging waarbij een vliegend Spiderman-object wordt bestuur
 ## Instructies
 
 1. **Clone de repository:**
-   git clone [repository-url]
+   git clone [https://git.fhict.nl/I507960/challenge-2-vliegend-object.git]
 
-2. Open de HTML-pagina:
+2. **Open de HTML-pagina:**
 Open het index.html-bestand in je favoriete webbrowser.
 
-3. Bestuur Spiderman:
+3. **Bestuur Spiderman:**
 Gebruik de pijltjestoetsen (boven, onder, links, rechts) om Spiderman te besturen en door de virtuele omgeving te vliegen.
 
 ## Structuur van de repository
