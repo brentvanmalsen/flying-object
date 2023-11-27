@@ -15,20 +15,21 @@ Gebruik de pijltjestoetsen (boven, onder, links, rechts) om Spiderman te besture
 
 ## Structuur van de repository
 
-index.html: De hoofdpagina van het project die de structuur van de webpagina bevat. <br><br>
-game.css: De CSS-stijlen die verantwoordelijk zijn voor de opmaak en lay-out van het spel. <br><br>
-game.js: De JavaScript-code die de logica achter de beweging van Spiderman en de interacties beheert. <br><br>
-images/: Een map die alle afbeeldingen bevat die worden gebruikt in het spel. <br><br>
+- index.html: De hoofdpagina van het project die de structuur van de webpagina bevat.
+- game.css: De CSS-stijlen die verantwoordelijk zijn voor de opmaak en lay-out van het spel.
+- game.js: De JavaScript-code die de logica achter de beweging van Spiderman en de interacties beheert.
+- images/: Een map die alle afbeeldingen bevat die worden gebruikt in het spel.
+
 
 ## Vereisten
 
-Moderne webbrowser (bijv. Chrome, Firefox, Safari)
-Toetsenbord met pijltjestoetsen
+- Moderne webbrowser (bijv. Chrome, Firefox, Safari)
+- Toetsenbord met pijltjestoetsen
 
 ## Opmerkingen
 
-Spiderman kan worden bestuurd met behulp van de pijltjestoetsen: omhoog, omlaag, links, rechts.
-De achtergrond van het spel is voorzien van een Spiderman-afbeelding die door de omgeving kan vliegen.
+- Spiderman kan worden bestuurd met behulp van de pijltjestoetsen: omhoog, omlaag, links, rechts.
+- De achtergrond van het spel is voorzien van een Spiderman-afbeelding die door de omgeving kan vliegen.
 
 ## Aanpassingen en Uitbreidingen
 
